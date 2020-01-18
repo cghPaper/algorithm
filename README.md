@@ -1,1 +1,1 @@
-This is algoritm study repository!
+This is data structure and algoritm study repository!
