@@ -1,1 +1,1 @@
-This repository is algoritm study repository~
+This repository is algoritm study repository!
